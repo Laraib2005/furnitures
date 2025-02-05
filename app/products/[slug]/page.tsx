@@ -5,7 +5,7 @@ import { useDispatch } from "react-redux";
 import { Loader } from "lucide-react";
 import { addToCart } from "@/app/redux/cartSlice";
 import { client } from "@/sanity/lib/client";
-import Brand from "@/app/components/brand";
+
 
 type Product = {
   _id: number;
