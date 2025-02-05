@@ -5,7 +5,7 @@ import Product from "./components/product";
 import Benefit from "./components/benefit";
 import Touch from "./components/touch";
 
-import ProductsPage from "./products/page";
+
 
 
 export default function Home() {
