@@ -1,0 +1,6 @@
+Test Case ID,Test Description,Expected Result,Actual Result,Status
+TC001,Check home page load time,Home page should load in under 3 seconds,Home page loaded in 2.5 seconds,Pass
+TC002,Test website responsiveness on mobile devices,Website should display correctly on mobile,Website displayed correctly on mobile,Pass
+TC003,Verify menu item functionality,All menu items should redirect to the correct pages,All menu items redirected correctly,Pass
+TC006,Check broken links on the website,All links should be working without errors,No broken links found,Pass
+TC007,Verify product page functionality,Product page should load correctly and display details,Product page loads correctly and displays details,Pass
